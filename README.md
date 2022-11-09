@@ -1,5 +1,5 @@
-# Python-libraries
+# Keras 
 
-### 1) NumPy [Click here](https://github.com/TejasPosupo/Python-libraries/tree/NumPy)
-
-### 2) Pandas[Click here](https://github.com/TejasPosupo/Python-libraries/tree/Pandas)
+## Keras is a high-level, deep learning API developed by Google for implementing neural networks.
+## It is written in Python and is used to make the implementation of neural networks easy.
+## It also supports multiple backend neural network computation.    
