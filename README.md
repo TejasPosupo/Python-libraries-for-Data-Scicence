@@ -1,5 +1,3 @@
-# Python-libraries
+# Matplotlib
 
-### 1) NumPy [Click here](https://github.com/TejasPosupo/Python-libraries/tree/NumPy)
-
-### 2) Pandas[Click here](https://github.com/TejasPosupo/Python-libraries/tree/Pandas)
+## Matplotlib is a cross-platform, data visualization and graphical plotting library for Python and its numerical extension NumPy. As such, it offers a viable open source alternative to MATLAB. Developers can also use matplotlib’s APIs (Application Programming Interfaces) to embed plots in GUI applications.
