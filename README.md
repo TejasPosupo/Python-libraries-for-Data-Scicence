@@ -1,6 +1,6 @@
 # Python-libraries
 
-##All the Data-Science Libraries in one place
+## All the Data-Science Libraries in one place
 
 ### 1) NumPy [Click here](https://github.com/TejasPosupo/Python-libraries/tree/NumPy)
 
